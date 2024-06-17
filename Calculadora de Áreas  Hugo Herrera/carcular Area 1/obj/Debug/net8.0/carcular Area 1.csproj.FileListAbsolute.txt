@@ -1,0 +1,28 @@
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\carcular Area 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\carcular Area 1.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\carcular Area 1.AssemblyInfo.cs
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\carcular Area 1.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\bin\Debug\net8.0\carcular Area 1.exe
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\bin\Debug\net8.0\carcular Area 1.deps.json
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\bin\Debug\net8.0\carcular Area 1.runtimeconfig.json
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\bin\Debug\net8.0\carcular Area 1.dll
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\bin\Debug\net8.0\carcular Area 1.pdb
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\carcular Area 1.dll
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\refint\carcular Area 1.dll
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\carcular Area 1.pdb
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\carcular Area 1.genruntimeconfig.cache
+C:\Users\Memo\Desktop\ejercicio Funciones1\carcular Area 1\obj\Debug\net8.0\ref\carcular Area 1.dll
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\bin\Debug\net8.0\carcular Area 1.exe
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\bin\Debug\net8.0\carcular Area 1.deps.json
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\bin\Debug\net8.0\carcular Area 1.runtimeconfig.json
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\bin\Debug\net8.0\carcular Area 1.dll
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\bin\Debug\net8.0\carcular Area 1.pdb
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\carcular Area 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\carcular Area 1.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\carcular Area 1.AssemblyInfo.cs
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\carcular Area 1.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\carcular Area 1.dll
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\refint\carcular Area 1.dll
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\carcular Area 1.pdb
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\carcular Area 1.genruntimeconfig.cache
+C:\Users\Memo\Desktop\Hugo Herrera c#-Funciones\Calculadora de Áreas  Hugo Herrera\carcular Area 1\obj\Debug\net8.0\ref\carcular Area 1.dll
