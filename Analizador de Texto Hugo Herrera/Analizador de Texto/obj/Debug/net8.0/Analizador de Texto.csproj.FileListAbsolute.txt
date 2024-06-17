@@ -1,0 +1,14 @@
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\bin\Debug\net8.0\Analizador de Texto.exe
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\bin\Debug\net8.0\Analizador de Texto.deps.json
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\bin\Debug\net8.0\Analizador de Texto.runtimeconfig.json
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\bin\Debug\net8.0\Analizador de Texto.dll
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\bin\Debug\net8.0\Analizador de Texto.pdb
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\Analizador de Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\Analizador de Texto.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\Analizador de Texto.AssemblyInfo.cs
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\Analizador de Texto.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\Analizador de Texto.dll
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\refint\Analizador de Texto.dll
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\Analizador de Texto.pdb
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\Analizador de Texto.genruntimeconfig.cache
+C:\Users\Memo\Desktop\Analizador de Texto Hugo Herrera\Analizador de Texto\obj\Debug\net8.0\ref\Analizador de Texto.dll
