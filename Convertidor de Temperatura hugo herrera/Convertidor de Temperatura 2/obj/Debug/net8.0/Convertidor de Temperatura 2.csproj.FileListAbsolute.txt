@@ -1,0 +1,14 @@
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\bin\Debug\net8.0\Convertidor de Temperatura 2.exe
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\bin\Debug\net8.0\Convertidor de Temperatura 2.deps.json
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\bin\Debug\net8.0\Convertidor de Temperatura 2.runtimeconfig.json
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\bin\Debug\net8.0\Convertidor de Temperatura 2.dll
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\bin\Debug\net8.0\Convertidor de Temperatura 2.pdb
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\Convertidor de Temperatura 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\Convertidor de Temperatura 2.AssemblyInfoInputs.cache
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\Convertidor de Temperatura 2.AssemblyInfo.cs
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\Convertidor de Temperatura 2.csproj.CoreCompileInputs.cache
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\Convertidor de Temperatura 2.dll
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\refint\Convertidor de Temperatura 2.dll
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\Convertidor de Temperatura 2.pdb
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\Convertidor de Temperatura 2.genruntimeconfig.cache
+C:\Users\Memo\Desktop\Convertidor de Temperatura\Convertidor de Temperatura 2\obj\Debug\net8.0\ref\Convertidor de Temperatura 2.dll
